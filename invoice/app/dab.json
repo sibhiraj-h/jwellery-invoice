@@ -1,0 +1,41 @@
+{
+  "data": [
+    {
+      "id": "7856",
+      "per": "12",
+      "item": "RING",
+      "gram": "3.26",
+      "type": "GOLD",
+      "mc": "500"
+    },
+    {
+      "id": "5896",
+      "per": "12",
+      "item": "BANGLES",
+      "gram": "52.36",
+      "type": "GOLD",
+      "mc": "1000"
+    }
+  ],
+  "rate": {
+    "gold": "5963",
+    "silver": "70.36"
+  },
+  "ug": {
+    "gwei": "61.000"
+  },
+  "us": {
+    "swei": "13.725"
+  },
+  "purc": [
+    {
+      "id": "Bcw9FkA",
+      "per": "",
+      "item": "",
+      "gram": "",
+      "total": null,
+      "date": "14-2-2023",
+      "dates": "2023-2-14"
+    }
+  ]
+}
